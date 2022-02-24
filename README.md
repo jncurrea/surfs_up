@@ -10,6 +10,7 @@ An investor wants to learn more about the weather in Oahu before building a Surf
 <img width="130" alt="Screen Shot 2022-02-24 at 2 24 38 PM" src="https://user-images.githubusercontent.com/95834653/155601815-9e7f466a-eae4-4d15-add2-85fda44fca2e.png">
 - Summary Statistics for December Temperature
 <img width="137" alt="Screen Shot 2022-02-24 at 2 29 56 PM" src="https://user-images.githubusercontent.com/95834653/155602573-fc9d55f9-85c1-41c9-b18c-16487fadc693.png">
+
 ### Findings
 - The mean temperature of 75°F for June is higher than the mean temperature of 71°F for December.
 - The mean precipitation for June was .14 inches and for December it was .22.
@@ -21,6 +22,7 @@ An investor wants to learn more about the weather in Oahu before building a Surf
 <img width="135" alt="Screen Shot 2022-02-24 at 2 59 46 PM" src="https://user-images.githubusercontent.com/95834653/155606734-5562877c-8c97-4b10-a175-09d463e5db1e.png">
 - December Precipitation Descriptive statistics
 <img width="139" alt="Screen Shot 2022-02-24 at 3 01 33 PM" src="https://user-images.githubusercontent.com/95834653/155607037-3774b58f-8734-462b-9e1a-afc382757784.png">
+- The descrptive statistics do not show a clear trend on how the temperature and precipitation would behave depending on the months. Given this, it is plausible for the investor to open the surf shop for the whole year.
 
 
 
